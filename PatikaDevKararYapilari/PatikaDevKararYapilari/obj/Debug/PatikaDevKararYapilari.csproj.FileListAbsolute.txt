@@ -1,0 +1,7 @@
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\bin\Debug\PatikaDevKararYapilari.exe.config
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\bin\Debug\PatikaDevKararYapilari.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\bin\Debug\PatikaDevKararYapilari.pdb
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\obj\Debug\PatikaDevKararYapilari.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\obj\Debug\PatikaDevKararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\obj\Debug\PatikaDevKararYapilari.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\PatikaDevKararYapilari\PatikaDevKararYapilari\obj\Debug\PatikaDevKararYapilari.pdb
